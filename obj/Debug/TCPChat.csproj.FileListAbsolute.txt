@@ -1,0 +1,9 @@
+c:\users\thanhhung\documents\visual studio 2012\Projects\TCPChat\TCPChat\bin\Debug\TCPChat.exe.config
+c:\users\thanhhung\documents\visual studio 2012\Projects\TCPChat\TCPChat\bin\Debug\TCPChat.exe
+c:\users\thanhhung\documents\visual studio 2012\Projects\TCPChat\TCPChat\bin\Debug\TCPChat.pdb
+c:\users\thanhhung\documents\visual studio 2012\Projects\TCPChat\TCPChat\obj\Debug\TCPChat.csprojResolveAssemblyReference.cache
+c:\users\thanhhung\documents\visual studio 2012\Projects\TCPChat\TCPChat\obj\Debug\TCPChat.Properties.Resources.resources
+c:\users\thanhhung\documents\visual studio 2012\Projects\TCPChat\TCPChat\obj\Debug\TCPChat.csproj.GenerateResource.Cache
+c:\users\thanhhung\documents\visual studio 2012\Projects\TCPChat\TCPChat\obj\Debug\TCPChat.exe
+c:\users\thanhhung\documents\visual studio 2012\Projects\TCPChat\TCPChat\obj\Debug\TCPChat.pdb
+c:\users\thanhhung\documents\visual studio 2012\Projects\TCPChat\TCPChat\obj\Debug\TCPChat.Client.resources
