@@ -138,10 +138,7 @@ namespace TCPChat
         }
     
 
-        private void Client_Load(object sender, EventArgs e)
-        {
-
-        }
+     
 
         private void Client_FormClosing(object sender, FormClosingEventArgs e)
         {
